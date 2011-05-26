@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DSICORP/Developpement/DSICORP-Mantis-m4d/!svn/ver/233/trunk/web-apps/prod/php/plugins/SvnGenerateLog/pages
+END
+config_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DSICORP/Developpement/DSICORP-Mantis-m4d/!svn/ver/233/trunk/web-apps/prod/php/plugins/SvnGenerateLog/pages/config_edit.php
+END
+action_group_svngeneratelog.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/DSICORP/Developpement/DSICORP-Mantis-m4d/!svn/ver/233/trunk/web-apps/prod/php/plugins/SvnGenerateLog/pages/action_group_svngeneratelog.php
+END
+generateLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DSICORP/Developpement/DSICORP-Mantis-m4d/!svn/ver/233/trunk/web-apps/prod/php/plugins/SvnGenerateLog/pages/generateLog.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DSICORP/Developpement/DSICORP-Mantis-m4d/!svn/ver/233/trunk/web-apps/prod/php/plugins/SvnGenerateLog/pages/config.php
+END

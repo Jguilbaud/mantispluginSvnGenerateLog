@@ -1,0 +1,21 @@
+<?php
+
+$s_plugin_SvnGenerateLog_pluginname 		= 'SvnGenerateLog';
+$s_plugin_SvnGenerateLog_plugindescription = 'Generate, from a list of bugs, a log message to put on svn at commit.';
+
+$s_plugin_SvnGenerateLog_actiongroup_svngeneratelog_label = "Generate SVN message log";
+
+
+//Config
+$s_plugin_SvnGenerateLog_config_tpl_vars = 'Vars';
+$s_plugin_SvnGenerateLog_config_tpl_version = 'Template Version';
+$s_plugin_SvnGenerateLog_config_tpl_versionname = 'Version > name';
+$s_plugin_SvnGenerateLog_config_tpl_versiondescription = 'Version > description';
+$s_plugin_SvnGenerateLog_config_tpl_bug = 'Template Bug';
+$s_plugin_SvnGenerateLog_config_tpl_buglist = 'Bug list';
+$s_plugin_SvnGenerateLog_config_tpl_bugid = 'Bug ID';
+$s_plugin_SvnGenerateLog_config_tpl_bugsummary = 'Bug summary';
+$s_plugin_SvnGenerateLog_config_tpl_bugurl = 'Bug URL';
+
+
+

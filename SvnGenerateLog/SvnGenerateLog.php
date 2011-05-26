@@ -15,8 +15,8 @@ class SvnGenerateLogPlugin extends MantisPlugin  {
 		);
 		$this->page = 'config';
 		$this->author = 'Johan Guilbaud';
-		$this->contact = '';
-		$this->url = '';
+		$this->contact = 'support@lapinkiller.fr';
+		$this->url = 'http://www.lapinkiller.fr';
 	}
 	
 	/**

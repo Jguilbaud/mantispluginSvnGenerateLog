@@ -1,16 +1,16 @@
-# INFOS
-Version 1.0
-26 avril 2011
-Par/By Johan GUILBAUD
-Ce plugin est founi sous licence GNU/GPL
-This plugin is under GNU/GPL license
+## Infos
+* Version 1.0
+* 26 avril 2011
+* Par/By Johan GUILBAUD
+
+## Licence / License
+* Ce plugin est founi sous licence GNU/GPL
+* This plugin is under GNU/GPL license
 
 
-
-## A propos
+## A propos / About
 Ce plugin permet de générer à partir d'une liste de bugs un message de log pour SVN.
 
-## About
 This plugin allows to generate, with a selection of bugs, a SVN log message.
 
 

@@ -1,4 +1,4 @@
-==== INFOS ====
+# INFOS
 Version 1.0
 26 avril 2011
 Par/By Johan GUILBAUD
@@ -7,15 +7,15 @@ This plugin is under GNU/GPL license
 
 
 
-==== A propos ====
+## A propos
 Ce plugin permet de générer à partir d'une liste de bugs un message de log pour SVN.
 
-==== About =====
+## About
 This plugin allows to generate, with a selection of bugs, a SVN log message.
 
 
 
-==== Comment installer : ====
+## Comment installer :
 
 Décompressez l'archive dans le dossier plugins de votre installation Mantis.
 Le dossier doit se nommer SvnGenerateLog (renommez le si nécéssaire) et contenir à sa racine les dossiers lang, pages et le fichier SvnGenerateLog.php
@@ -26,7 +26,7 @@ Allez dans Plugiciels, Le plugin SvnGenerateLog doit apparaitre, cliquez sur ins
 
 
 
-==== How to install ==== 
+## How to install
 
 Uncompress archine into the plugins folder of your mantis installation. 
 The folder's name have to be SvnGenerateLog and have the folders lang & pages and SvnGenerateLog.php file a the root of the folder.
